@@ -31,6 +31,10 @@ const mainBody = {
             image: "fa-twitter",
             url: "https://twitter.com/Swati01121987",
         },
+        {
+            image: "fa-medium",
+            url: "https://medium.com/@swatipanchal112",
+        }
     ],
 };
 
