@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6e238e8a.css",
-    "main.js": "/static/js/main.a84d0596.js",
+    "main.js": "/static/js/main.64b2cfbc.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/CV_Swati.pdf": "/static/media/CV_Swati.08a727f4227656a7502c.pdf",
     "static/media/swati.jpg": "/static/media/swati.08008321d3326832d56a.jpg",
     "index.html": "/index.html",
     "main.6e238e8a.css.map": "/static/css/main.6e238e8a.css.map",
-    "main.a84d0596.js.map": "/static/js/main.a84d0596.js.map",
+    "main.64b2cfbc.js.map": "/static/js/main.64b2cfbc.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e238e8a.css",
-    "static/js/main.a84d0596.js"
+    "static/js/main.64b2cfbc.js"
   ]
 }
